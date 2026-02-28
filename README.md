@@ -1,8 +1,10 @@
+
+
+
+
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Sail%20off%20without%20a%20map&fontColor=white&fontSize=38&fontAlign=50)
-
-</div>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Kiran&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=sail%20off%20without%20a%20map&descAlignY=60&descSize=20&descColor=a0a0ff)
 
 <div align="center">
 
