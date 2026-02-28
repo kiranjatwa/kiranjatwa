@@ -1,6 +1,12 @@
 <div align="center">
-![header]([)](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Sail%20off%20without%20a%20map&fontColor=white&fontSize=38&fontAlign=50)
-<div align="center"># Namaste, I'm Kiran 
+
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Sail%20off%20without%20a%20map&fontColor=white&fontSize=38&fontAlign=50)
+
+</div>
+
+<div align="center">
+
+#  Namaste, I'm Kiran Jatwa
 
 🎓 A curious Data Science student on a mission to decode the world through data — <br/>
 one dataset at a time. Passionate about turning raw numbers into meaningful stories.
